@@ -44,10 +44,9 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Most Used Language Lately 🐍</h2>
   <br>
-    
-   [snake gif](https://github.com/muhammadhardwinv/muhammadhardwinv/blob/output/github-contribution-grid-snake.gif)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhardwinv)](https://github.com/muhammadhardwinv/github-readme-stats)
   <br/><br/><br/>
 </div>
 
