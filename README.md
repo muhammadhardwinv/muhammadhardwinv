@@ -48,7 +48,6 @@
   <br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhardwinv"/>
     <br/>
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadhardwinv)](https://github.com/muhammadhardwinv/github-readme-stats)
   <br/><br/><br/>
 </div>
 
