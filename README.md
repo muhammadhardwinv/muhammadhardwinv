@@ -47,7 +47,8 @@
   <h2>🐍 Most Used Language Lately 🐍</h2>
   <br>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhardwinv"/>
-    ![snake gif](https://github.com/muhammadhardwinv/muhammadhardwinv/blob/output/github-contribution-grid-snake.svg)
+    <br/>
+    ![snake gif](https://github.com/muhammadhardwinv/muhammadhardwinv/blob/output/github-contribution-grid-snake.gif)
   <br/><br/><br/>
 </div>
 
