@@ -47,7 +47,11 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/muhammadhardwinv/muhammadhardwinv/output/github-contribution-grid-snake.svg" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
   
   <br/><br/><br/>
 </div>
@@ -58,7 +62,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muhammadhardwinv&theme=radical&card_width=1000" alt="GitHub Streak" /></a>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-muhammadhardwinv.vercel.app/?user=muhammadhardwinv&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  
 </div>
 
 <br/><br/>
