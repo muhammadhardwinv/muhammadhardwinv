@@ -46,7 +46,7 @@
 <div align="center">
   <h2>🐍 Most Used Language Lately 🐍</h2>
   <br>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhardwinv)](https://github.com/muhammadhardwinv/github-readme-stats)
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhardwinv"/>
   <br/><br/><br/>
 </div>
 
