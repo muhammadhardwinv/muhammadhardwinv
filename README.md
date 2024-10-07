@@ -22,7 +22,7 @@
  
 <div align="center"> 
   <a href="mailto:mhardwin@outlook.com">
-    <img src="https://icons-for-free.com/iff/png/256/mail+microsoft+outlook+icon-1320086786273490891.png" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/muhammadhardwinv/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
