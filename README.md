@@ -55,7 +55,7 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadhardwinv)](https://github.com/muhammadhardwinv/github-readme-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muhammadhardwinv&theme=radical" alt="GitHub Streak" /></a>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-muhammadhardwinv.vercel.app/?user=muhammadhardwinv&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
