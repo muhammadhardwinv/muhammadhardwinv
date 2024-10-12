@@ -16,8 +16,6 @@
 
 💬 Ask me about **Python, Javascript, PHP, ... or anything [here](https://github.com/muhammadhardwinv/muhammadhardwinv/issues)**
 
-⚡ Fun fact **I have played Dota for over 10.000 hours, and I loved being surrounded by many new things.**
-
  </div>
  
 <div align="center"> 
