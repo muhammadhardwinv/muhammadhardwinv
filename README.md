@@ -14,7 +14,7 @@
  
  🌱 I’m currently work as **Programmer Laboratory Assistant**
 
-💬 Ask me about **Python, Javascript, PHP, ... or anything [here](https://github.com/muhammadhardwinv/muhammadhardwinv/issues)**
+💬 Discuss with me about **Python, Javascript, PHP, ... or anything [here](https://github.com/muhammadhardwinv/muhammadhardwinv/issues)**
 
  </div>
  
