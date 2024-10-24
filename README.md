@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Binus University**
  
- 🌱 I’m currently work as **Laboratory Assistant**
+ 🌱 I’m currently work as **Programmer Laboratory Assistant**
 
 💬 Ask me about **Python, Javascript, PHP, ... or anything [here](https://github.com/muhammadhardwinv/muhammadhardwinv/issues)**
 
