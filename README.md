@@ -39,6 +39,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,c,java,mysql" /><br>
 </div>
 <br/>
+<div>
 <hr/>
 
 <div align="center">
