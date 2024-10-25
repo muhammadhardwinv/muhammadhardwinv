@@ -5,9 +5,6 @@
 </h1>
 
 <h3 align="center">Empowering Digital Transformation through Computer Science and IT Development</h3>
-
-<br/>
-
 <div align="center">
  
  🔭 I’m currently working on **Binus University**
