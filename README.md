@@ -54,9 +54,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=muhammadhardwinv&theme=radical&card_width=1000" alt="GitHub Streak" /></a>
 <br>
-<div align=center>
-  
-</div>
+
 
 <br/><br/>
 
