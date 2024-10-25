@@ -31,16 +31,6 @@
 </div>
 
  <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,c,java,mysql" /><br>
-</div>
-<br/>
-<div>
-<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -50,6 +40,15 @@
   <br/><br/><br/>
 </div>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,c,java,mysql" /><br>
+</div>
+<br/>
+<div>
+<hr/>
 
 <div align="center">
   <h2>🐍 Most Used Language Lately 🐍</h2>
