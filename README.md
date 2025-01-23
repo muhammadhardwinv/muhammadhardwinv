@@ -7,7 +7,7 @@
 <h3 align="center">Empowering Digital Transformation through Computer Science and IT Development</h3>
 <div align="center">
  
- 🔭 I’m currently working on **Binus University**
+ 🔭 I’m currently working on **Bina Nusantara University**
  
  🌱 I’m currently work as **Programmer Laboratory Assistant**
 
