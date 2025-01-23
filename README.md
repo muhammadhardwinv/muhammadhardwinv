@@ -60,6 +60,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=muhammadhardwinv&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)<br>
+<a href="[![GitHub Streak](https://streak-stats.demolab.com/?user=muhammadhardwinv&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)"></a>
+<br>
 
 
