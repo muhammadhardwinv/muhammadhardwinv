@@ -46,12 +46,6 @@
   
   <br/><br/><br/>
 </div>
-
-
-<div align="center">
-  <h2>⚡ GitHub Stats ⚡</h2>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadhardwinv)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
