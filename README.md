@@ -7,9 +7,9 @@
 <h3 align="center">Empowering Digital Transformation through Computer Science and IT Development</h3>
 <div align="center">
  
- 🔭 I’m currently working on **Bina Nusantara University**
+ 🔭 I’m currently studying on **Bina Nusantara University**
  
- 🌱 I’m currently work as **Programmer Laboratory Assistant**
+ 🌱 I’m currently studying as **Bachelor's Degree**
 
 💬 Discuss with me about **Python, Javascript, PHP, ... or anything [here](https://github.com/muhammadhardwinv/muhammadhardwinv/issues)**
 
@@ -52,6 +52,7 @@
   <h2>🐍 Most Used Programming Language 🐍</h2>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhardwinv" alt="Top Languages"/>
+    [![Hv's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadhardwinv)](https://github.com/anuraghazra/github-readme-stats)
   <br><br><br>
 </div>
 <hr/>
