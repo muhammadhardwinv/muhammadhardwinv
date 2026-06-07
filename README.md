@@ -52,10 +52,7 @@
   <h2>⚡ GitHub Stats ⚡</h2>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=muhammadhardwinv&show_icons=true&theme=radical&rank_icon=github" 
-      alt="Hv's Stats" 
-    />
+    <img src="https://github-readme-stats.vercel.app/api?username=muhammadhardwinv&show_icons=true&theme=radical&rank_icon=github" alt="Hv's Stats" />
   </a>
 </div>
 <hr/>
