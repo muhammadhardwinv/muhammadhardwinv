@@ -48,19 +48,19 @@
 </div>
 
 
-
 <div align="center">
   <h2>🐍 Most Used Programming Language 🐍</h2>
   <br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhardwinv"/>
-    <br/>
-  <br/><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhardwinv" alt="Top Languages"/>
+  <br><br><br>
 </div>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<a href="[![GitHub Streak](https://streak-stats.demolab.com/?user=muhammadhardwinv)](https://git.io/streak-stats)"></a>
-<br>
-
-
+<div align="center">
+  <br>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=muhammadhardwinv" alt="GitHub Streak" />
+  </a>
+  <br>
+</div>
