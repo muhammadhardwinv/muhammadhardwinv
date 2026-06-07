@@ -49,11 +49,14 @@
 
 
 <div align="center">
-  <h2>🐍 Most Used Programming Language 🐍</h2>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhardwinv" alt="Top Languages"/>
-    [![Hv's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadhardwinv)](https://github.com/anuraghazra/github-readme-stats)
-  <br><br><br>
+  <h2>⚡ GitHub Stats ⚡</h2>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=muhammadhardwinv&show_icons=true&theme=radical&rank_icon=github" 
+      alt="Muhammad Hardwin's Stats" 
+    />
+  </a>
 </div>
 <hr/>
 
