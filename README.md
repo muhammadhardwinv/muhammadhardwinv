@@ -16,7 +16,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:mhardwin@outlook.com">
+  <a href="mailto:mhardwin@outlook.com">mhardwin@outlook.com</a>
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/muhammadhardwinv/" target="_blank">
