@@ -9,7 +9,7 @@
  
  🔭 I’m currently studying on **Bina Nusantara University**
  
- 🌱 I’m currently studying as **Bachelor's Degree**
+ 🌱 I’m currently studying my **Bachelor's Degree**
 
 💬 Discuss with me about **Python, Javascript, PHP, ... or anything [here](https://github.com/muhammadhardwinv/muhammadhardwinv/issues)**
 
